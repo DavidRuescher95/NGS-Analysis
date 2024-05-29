@@ -6,9 +6,9 @@
 
 ## Contents
 
-### modules
+### classes
 
-Contains Python modules for NGS data analysis.
+Contains Python classes for NGS data analysis.
 
 1. CoRegulatoryNetworkAnalysis.py:
     - Class for clustering gene expression from RNA-seq data
